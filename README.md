@@ -1,12 +1,14 @@
 # 🚀 Open Protocol Grant Reviewers Handbook
 
-
+![image](/openhandbookgif.gif)
 
 Welcome to the Open Protocol Grant Reviewers Handbook—your comprehensive guide to effective, transparent, and impactful grant reviewing within Web3 communities.
 
 🌟 Purpose of this Handbook
 
 Inspired by our experience with the highly respected Aave Grants DAO, we created this handbook to share insights, best practices, and proven processes with emerging decentralized autonomous organizations (DAOs), protocols, and communities looking to enhance their grant-review capabilities.
+
+View the Google Slide version [here](https://docs.google.com/presentation/d/1uNxUQcp_CthWDk8xHZWCH9olShDLVQ3mdWr3mS8kQd8/edit?usp=sharing).
 
 We aim to:
 
