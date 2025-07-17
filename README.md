@@ -21,12 +21,10 @@ We aim to:
 The handbook covers essential aspects of grant reviewing, including:
 
 * Roles and responsibilities of reviewers
-* Managing conflicts of interest
-* Building transparent and accountable processes
-* Identifying fraud and Sybil resistance
-* Structuring reviewer incentives
-* Encouraging ecosystem collaboration
-* Comprehensive risk assessment
+* Grants DAO operations and best practices
+* An in-depth overview of the grants review process
+* Case studies on both accepted and rejects project proposals
+* Special topics and pro-tips
 
 🌐 Who Should Use This Handbook?
 
