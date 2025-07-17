@@ -1,6 +1,6 @@
 # 🚀 Open Protocol Grant Reviewers Handbook
 
-![image](/openhandbookgif.gif)
+![image](/openhandbookgifsmall.gif)
 
 Welcome to the Open Protocol Grant Reviewers Handbook—your comprehensive guide to effective, transparent, and impactful grant reviewing within Web3 communities.
 
